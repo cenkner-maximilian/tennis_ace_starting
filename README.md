@@ -53,9 +53,3 @@ Using a structured data analysis workflow, the goal was to identify which match-
 - Linear regression assumes linear relationships
 - No feature scaling or interaction terms were used
 - External factors (tournament level, era, injuries) are not included
-
----
-
-## How to Run
-```bash
-pip install pandas numpy matplotlib scikit-learn
